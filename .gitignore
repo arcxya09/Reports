@@ -22,3 +22,6 @@
 # System
 Thumbs.db
 Desktop.ini
+
+# Project documentation (internal use)
+AGENTS.md
